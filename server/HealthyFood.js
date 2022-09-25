@@ -1,0 +1,57 @@
+const HealthyFood = [
+    {
+      id: 451,
+      category1: "fitness",
+      category: "food",
+      authorName: 'naruto uzumaki',
+      date: "01. sept 2022",
+      title: "The Habit Burger Grill Is Bringing Their Signature Flavor to Butte County With New Drive-Thru Restaurant",
+      cover: "https://c4.wallpaperflare.com/wallpaper/374/404/846/brown-bird-perching-during-daytime-wren-wren-wallpaper-preview.jpg",
+    },
+    {
+      id: 452,
+      category1: "fitness",
+      category: "food",
+      authorName: 'sasuke uchia',
+      date: "30. aug 2022",
+      title: "Vitamin B12 Foods: Low Stamina And Strength? Do Add These Vitamin B12 Rich Food Items In Your Diet",
+      cover: "https://c4.wallpaperflare.com/wallpaper/311/699/596/fruit-allsorts-pineapple-melon-wallpaper-preview.jpg",
+    },
+    {
+      id: 453,
+      category1: "fitness",
+      category: "food",
+      authorName: 'kakashi hatake',
+      date: "25. aug 2022",
+      title: "Weight Loss Tips: Add These Fruit Juices To Your Daily Diet  ",
+      cover: "https://c4.wallpaperflare.com/wallpaper/421/594/566/watermelon-kiwi-juice-glasses-wallpaper-preview.jpg",
+    },
+    {
+      id: 454,
+      category1: "fitness",
+      category: "food",
+      authorName: 'neji hyuga',
+      date: "19. aug 2022",
+      title: "Chennai restaurant shut down after woman finds worms in food",
+      cover: "https://c4.wallpaperflare.com/wallpaper/1016/528/45/cuisine-food-india-indian-wallpaper-preview.jpg",
+    },
+    {
+      id: 455,
+      category1: "fitness",
+      category: "food",
+      authorName: 'madara uchia',
+      date: "11. aug 2022",
+      title: "64 healthy dinner recipes that require little to no effort",
+      cover: "https://c4.wallpaperflare.com/wallpaper/3/13/72/rolls-sushi-japanese-food-fruits-wallpaper-preview.jpg",
+    },
+    {
+      id: 456,
+      category1: "fitness",
+      category: "food",
+      authorName: 'might guy',
+      date: "02. aug 2022",
+      title: "Pizza Hut brings in late-night munchies tax to combat inflation",
+      cover: "https://c4.wallpaperflare.com/wallpaper/234/543/684/food-pizza-wallpaper-preview.jpg",
+    }
+  ]
+  module.exports = HealthyFood;

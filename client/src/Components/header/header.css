@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Bungee+Shade&family=Orbitron:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Orbitron:wght@700&display=swap');
+
+.header-conatiner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+}
+
+.map {
+    position: absolute;
+    left: 0px;
+}
+
+.map1 {
+    position: absolute;
+    right: 0px;
+}
+
+.the-90 {
+    transform: rotate(-90deg) !important;
+    font-size: 30px;
+    font-family: 'Orbitron', sans-serif;
+    color: #be0b0b;
+    text-shadow: 3px 3px 3px black;
+}
+
+.siren {
+    font-family: 'Orbitron', sans-serif;
+    color: #be0b0b;
+    font-size: 50px;
+    margin: 10px;
+    text-shadow: 3px 3px 3px black;
+}
+
+.header-conatiner {
+    display: flex;
+}
+
+@media screen and (max-width:400px) {
+    .header-conatiner {
+        display: none;
+    }
+}

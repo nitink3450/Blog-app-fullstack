@@ -1,0 +1,58 @@
+const lifestyle = [
+    {
+      id: 151,
+      category: "world",
+      category1: "card1",
+      title: "Mustang Teases With A New Promo",
+      authorName: 'naruto uzumaki',
+      date: "01. sept 2022",
+      cover: "https://c4.wallpaperflare.com/wallpaper/910/24/10/night-artwork-futuristic-city-cyberpunk-wallpaper-preview.jpg",
+    },
+    {
+      id: 152,
+      category: "sport",
+      category1: "card1",
+      title: "With A Whirr, Not A Roar, Auto Racing Drives Toward An Electric Future",
+      authorName: 'sasuke uchia',
+      date: "30. aug 2022",
+      cover: "https://c4.wallpaperflare.com/wallpaper/943/63/773/cyberpunk-2077-cyberpunk-video-games-wallpaper-preview.jpg",
+    },
+    {
+      id: 153,
+      category: "fashion",
+      category1: "card1",
+      title: "Learn How To Nail Your Favorite Look All Time",
+      authorName: 'kakashi hatake',
+      date: "25. aug 2022",
+      cover: "https://c4.wallpaperflare.com/wallpaper/1020/921/305/artwork-digital-art-cat-glasses-wallpaper-preview.jpg",
+    },
+    {
+      id: 154,
+      category: "culture",
+      category1: "card2",
+      title: "Indians Are Partying And Praying For Elephant-Headed God Ganesh",
+      authorName: 'neji hyuga',
+      date: "19. aug 2022",
+      cover: "https://c4.wallpaperflare.com/wallpaper/462/491/817/lord-ganesha-ganpati-bappa-ganapati-4k-wallpaper-preview.jpg",
+    },
+    {
+      id: 155,
+      category: "wild",
+      category1: "card2",
+      title: "There are 40% more tigers in the world than previously estimated",
+      authorName: 'madara uchia',
+      date: "11. aug 2022",
+      cover: "https://c4.wallpaperflare.com/wallpaper/121/838/467/art-artistic-graphic-design-wallpaper-preview.jpg",
+    },
+    {
+      id: 156,
+      category: "nature",
+      category1: "card2",
+      title: "Travel plans to or across Europe? Prepare for long lines",
+      authorName: 'might guy',
+      date: "02. aug 2022",
+      cover: "https://c4.wallpaperflare.com/wallpaper/362/276/920/nature-4k-pc-full-hd-wallpaper-preview.jpg",
+    },
+  
+  ]
+  module.exports = lifestyle;

@@ -1,0 +1,49 @@
+.the {
+  display: inline-block;
+  transform: rotate(-90deg);
+}
+.sticky{
+  position: sticky !important;
+  top: 0px;
+
+  z-index: 10;
+}
+
+.hide-logo {
+  display: none;
+}
+
+.size {
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.left-margin {
+  margin-left: 110px;
+  text-decoration: none;
+  color: rgb(182, 182, 182);
+  text-shadow: 3px 3px 3px black;
+}
+
+.left-margin:hover {
+  font-size: 25px;
+  color: white;
+}
+
+.navSize {
+  min-height: 60px;
+}
+
+@media screen and (max-width:400px) {
+  .left-margin {
+    margin-left: 0px;
+    text-align: center;
+    border-bottom: 1px solid rgb(75, 75, 75);
+  }
+}
+
+@media screen and (max-width:1000px) {
+  .hide-logo {
+    display: flex;
+  }
+}

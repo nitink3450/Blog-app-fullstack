@@ -1,0 +1,21 @@
+.four{
+    font-size: xx-large;
+    font-weight: bold;
+    border-right: 2px solid gray;
+    padding: 20px;
+}
+.error{
+    font-size: large;
+    padding-left: 20px;
+}
+.main-div{
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

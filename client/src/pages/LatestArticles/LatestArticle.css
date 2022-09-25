@@ -1,0 +1,60 @@
+.music {
+  width: 90%;
+  display: inline-block;
+}
+
+.music .box {
+  margin-bottom: 43px;
+  margin-left: 2px;
+}
+
+.music .text {
+  padding: 0px 30px;
+}
+
+.music .images {
+  width: 320px;
+  height: 220px;
+}
+
+.music img {
+  width: 320px;
+  height: 220px;
+  object-fit: cover;
+}
+
+.music h1 {
+  font-size: 22px;
+}
+
+.fa-calendar-days {
+  color: red;
+}
+
+@media screen and (max-width: 768px) {
+
+  .music img,
+  .music .images {
+    height: 25vh;
+    width: 35vh;
+    margin-bottom: 10px;
+  }
+
+  .flexDirection {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .fa-share {
+    margin-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .music {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+}
